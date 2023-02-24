@@ -49,7 +49,7 @@ To run and work with this app, you will need the following tools:
 Here are the steps to run this app locally:
 
 1. Install JDK.
-2. Fork this app to your local repository.
+2. Fork this app to your repository and open it locally.
 3. Add all the required configurations to db.properties file.
 4. Install Tomcat.
 5. Run the app.
