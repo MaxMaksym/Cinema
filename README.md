@@ -31,7 +31,7 @@ Cinema App follows a standard project structure for Spring-based applications. H
 ## Technologies 💻
 Cinema App was built using the following technologies and patterns:
 
-- Java 17, MySql, Tomcat, Maven
+- Java 17, MySQL, Tomcat, Maven
 - Spring Web MVC, Spring Security, Hibernate
 - OOP, SOLID, Singleton
 
@@ -41,7 +41,7 @@ To run and work with this app, you will need the following tools:
 
 - IDE
 - Tomcat v9.5
-- MySql
+- MySQL
 - Postman
 
 ## Installation 🚀
@@ -49,7 +49,7 @@ To run and work with this app, you will need the following tools:
 Here are the steps to run this app locally:
 
 1. Install JDK.
-2. Fork this app to your repository and open it locally.
+2. Clone this repository and open it locally.
 3. Add all the required configurations to db.properties file.
 4. Install Tomcat.
 5. Run the app.
